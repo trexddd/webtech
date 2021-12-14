@@ -1,0 +1,314 @@
+.cont{
+    margin-top:200px;
+}
+.hero{
+    margin-top: 20px;
+    width: 100%;
+    height: 960px
+    
+}
+.hero-header{
+    position:relative;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: -720px;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 55px;
+    color: white;
+}
+.butty{
+    margin-left: 540px;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 30px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: black;
+    color: white;
+    border-radius: 20px;
+    padding:4px 4px 4px 4px;
+}
+.butty:hover{
+    background-color: black;
+    transition: 0.8s;
+    cursor: pointer;
+}
+.Building{
+    margin-top: 50px;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 20px;
+    font-size: 40px;
+}
+.contentbro{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 30px;
+}
+.contentbro2{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    margin-left: 650px;
+    margin-top: -155px;
+}
+.contentbro3{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.contentbro4{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    margin-left: 650px;
+    margin-top: -160px;
+    margin-bottom: 120px;
+}
+.knowmore{
+    color: blue;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    border-radius: 4px;
+    background-color: transparent;
+    border-color: blue;
+}
+.somecontainerbroimsleepy{
+    background-color:rgb(204, 204, 204);
+}
+.Precum{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.select{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    padding-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 480px;
+}
+.cardimage{
+    width:300px;
+    height: 80%;
+    border-radius: 10px;
+}
+.card1{
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.card2{
+    position: relative;
+    margin-left: 600px;
+    margin-top: -536px;
+}
+.card3{
+    position: relative;
+    margin-left: 1000px;
+    margin-top: -536px;
+}
+.build{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+}
+.price{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}
+
+.gs{
+    position: relative;
+    margin-top:50px;
+}
+
+.Line{
+    border-bottom: 2px solid black;
+    position: relative;
+    top:60px;
+    margin-left: 20px;
+    margin-right: 70px;
+}
+.buildimg{
+    margin-top: 20px;
+    width: 100%;
+    height: 960px;
+}
+
+.partbox{
+    width:250px;
+    height:350px;
+    position: relative;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+    text-align: center;
+    
+}
+
+.partimg{
+    width:250px;
+    height: 250px;
+    position: relative;
+}
+
+.dropbox{
+    width:230px;
+    border-radius: 5px;
+    margin-top:20px;
+    border: 2px solid black;
+}
+
+.box4s{
+    position: relative;
+    display: flex;
+    margin-left: 50px;
+    margin-top: -900px;
+}
+.box5s{
+    position: relative;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.preb{
+    text-align: center;
+    margin-top: -1000px;
+    color: white;
+}
+
+.pcdisp{
+    display: flex;
+    margin-left: 100px;
+}
+
+.Onepc{
+    width: 300px;
+    height:500px;
+    margin:25px;
+    background-color: lightgray;
+    color:black;
+}
+
+.Onepcimg{
+    width: 300px;
+    height: 300px;
+}
+
+.pchead{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.divtype1{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin-top:100px;
+    padding:30px;
+}
+
+.dispimg{
+    width:300px;
+    height: 300px;
+    padding-top: 50px;
+    padding-left: 50px;
+    float: left;
+}
+
+.divtype2{
+    width: 400px;
+    height: 400px;
+    margin-top: 100px;
+    padding-left: 50px;
+    padding-top: 80px;
+}
+
+.divtype{
+    display: flex;
+    margin-left: 100px;
+    float: left;
+}
+
+.vidtype{
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.vidtype1{
+    display: flex;
+    float: left;
+    margin-left: 50px;
+}
+
+.vidtype2{
+    height: 360px;
+    width: 400px;
+    padding-left: 50px;
+    padding-top: 80px;
+}
+
+.partsbox{
+    padding:5px;
+    text-align: left;
+}
+
+.content{
+    position:relative;
+    text-align: center;
+    margin-top: -900px;
+}
+
+.Line2{
+    border-bottom: 2px solid black;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.hero-header2{
+    position:relative;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: -900px;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 55px;
+    color: white;
+}
+
+.knowmore2{
+    color: blue;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    border-radius: 4px;
+    background-color: transparent;
+    border-color: blue;
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 625px;
+}
